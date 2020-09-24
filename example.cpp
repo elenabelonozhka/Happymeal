@@ -5,6 +5,8 @@
 using namespace std;
 
 int StaticValue::value = 5;
+//fghjklgveyhf
+
 
 Rational Rational::FromNumbers(int c, int d) {
     Rational result;
